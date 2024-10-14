@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">TaskManagerApp</string>
+
+    <!-- Common Strings -->
+    <string name="task_manager">Task Manager</string>
+    <string name="add_task">Add Task</string>
+    <string name="create_task">Create Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="save_task">Save Task</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="completed">Completed</string>
+
+    <!-- Task Details -->
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="task_due_date">Due Date</string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="content_desc_add_task_button">Add Task Button</string>
+    <string name="content_desc_task_item">Task Item</string>
+    <string name="content_desc_task_completed_checkbox">Task Completed Checkbox</string>
+    <string name="content_desc_task_title">Task Title Input Field</string>
+    <string name="content_desc_task_description">Task Description Input Field</string>
+    <string name="content_desc_task_due_date">Task Due Date Input Field</string>
+    <string name="content_desc_save_task_button">Save Task Button</string>
+    <string name="content_desc_save_changes_button">Save Changes Button</string>
+</resources>
